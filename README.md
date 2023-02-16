@@ -22,7 +22,9 @@ N/A
 
 ## Screenshot
 
-![Main Webpage](./screenshot/screenshot.png)
+![Main Webpage](./screenshot/screenshot_products.png)
+![Main Webpage](./screenshot/screenshot_categories.png)
+![Main Webpage](./screenshot/screenshot_tags.png)
 
 ## Link to the GitHub repo of the application
 
