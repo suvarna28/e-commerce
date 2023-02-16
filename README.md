@@ -32,7 +32,7 @@ https://github.com/suvarna28/e-commerce
 
 ## Link to the walkthrough video demonstrating the functionality of the application
 
-
+https://drive.google.com/file/d/1h9ZFNgYPYEScgQbroDR6AYyKYezWIOJb/view
 
 ## Credits
 
