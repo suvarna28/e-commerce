@@ -36,5 +36,4 @@ https://github.com/suvarna28/e-commerce
 
 ## Credits
 
-* Our TA, Sebastian Fave for answering homework related doubts and helping in resolving query related questions. 
-* Stackoverflow and W3schools for syntax and examples. 
+* Our TA, Sebastian Fave for helping in resolving homework related doubts. 
